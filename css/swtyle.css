@@ -3,3 +3,46 @@ body{
 font-family: 'Philosopher', sans-serif;
 
 }
+.banner-container{
+    background-color:#CBCACC;
+}
+.banner-column{
+    background-color: #868486;
+}
+.Navbar-container{
+    background-color: rgb(39,43,56);
+    position: sticky;
+    top: 0%;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgb(1,187,189);
+}
+.education-container{
+    background-color: rgb(238,237,239);
+}
+.ed-sef{
+  color: rgb(206,38,140);
+}
+.bg-co{
+    background-color:rgb(206,38,140) ;
+}
+.circle{
+    background-color:rgb(206,38,140) ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+.project-container{
+      background-color: rgb(45,177,225);
+}
+.headertwo{
+    color: white;
+}
+.portfolio-container{
+    background-color: honeydew;
+}
+.form-container{
+    background-color: rgb(70,75,93);
+}
