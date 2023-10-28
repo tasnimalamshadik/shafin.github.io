@@ -27,13 +27,16 @@ font-family: 'Philosopher', sans-serif;
 .bg-co{
     background-color:rgb(206,38,140) ;
 }
-.circle{
+
+.circle-edu{ 
     background-color:rgb(206,38,140) ;
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    
 }
+   
+    
+
 .project-container{
       background-color: rgb(45,177,225);
 }
@@ -45,4 +48,34 @@ font-family: 'Philosopher', sans-serif;
 }
 .form-container{
     background-color: rgb(70,75,93);
+}
+.inner-form{
+    background-color: rgb(83,90,112);
+}
+.form-bg{
+    background-color: rgb(206,38,140);
+}
+.form-bg:hover{
+    color: blue ;
+    background-color: rgb(181,96,92);
+}
+
+.footer{
+    background-color: rgb(42,167,212);
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(45,177,225);
+}
+
+.circle:hover{
+   
+    background-color:rgb(70,75,93) ;
+
 }
